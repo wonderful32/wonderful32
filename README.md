@@ -62,7 +62,7 @@
 
   <div align="left">
   <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
-   <code><img alt="Laravel" height="50" width="50" ssrc="https://skillicons.dev/icons?i=laravel"></code>     
+   <code><img alt="Laravel" height="50" width="50" src="https://skillicons.dev/icons?i=laravel"></code>     
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
   <code><img alt="nestjs" height="50" width="50"src="https://skillicons.dev/icons?i=nestjs"/></code>
   <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
