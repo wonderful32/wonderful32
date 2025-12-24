@@ -29,7 +29,7 @@
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <code><img alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png"/></code>
     <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>    
-    <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
+    <code><img  alt="Solidity" height="50" width="50" src="https://skillicons.dev/icons?i=solidity"></code>
      <a href="https://www.qt.io/" target="_blank">
       <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
     </a>
@@ -45,10 +45,9 @@
   <div align="left">      
   <code><img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"></code>
   <code><img alt="Vue" height="50" width="50" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></code>
-  <code><img alt="Angular" height="50" width="50" src="https://daisyui.com/logos/angular.svg"></code>
-  <code><img alt="Next" height="50" width="50" src="https://daisyui.com/logos/nextjs.svg"></code>
-  <code><img alt="Nuxt" height="50" width="50" src="https://daisyui.com/logos/nuxtjs.svg"></code>
-  <code><img alt="Preact" height="50" width="50" src="https://daisyui.com/logos/preact.svg"></code>
+  <code><img alt="Angular" height="50" width="50" src="https://skillicons.dev/icons?i=angular"></code>
+  <code><img alt="Next" height="50" width="50" src="https://skillicons.dev/icons?i=next"></code>
+  <code><img alt="Nuxt" height="50" width="50" src="https://skillicons.dev/icons?i=nuxt"></code>
   <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
   <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
@@ -63,11 +62,10 @@
 
   <div align="left">
   <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
-   <code><img alt="Laravel" height="50" width="50" src="https://camo.githubusercontent.com/a73f13ebf3672ccc6473228b2898acaa1b95d40c46e18d46af02761e66eab03c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c61726176656c2d322e737667"></code>     
+   <code><img alt="Laravel" height="50" width="50" ssrc="https://skillicons.dev/icons?i=laravel"></code>     
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
-  <code><img alt="nestjs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/></code>
+  <code><img alt="nestjs" height="50" width="50"src="https://skillicons.dev/icons?i=nestjs"/></code>
   <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-  <code><img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
